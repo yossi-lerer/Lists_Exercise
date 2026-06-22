@@ -6,3 +6,5 @@ print(agents)
 print(agents[0], agents[-1])
 # step 3
 print(agents[2])
+# step 4
+print(agents[1:4])
